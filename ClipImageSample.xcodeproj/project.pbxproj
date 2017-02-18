@@ -12,6 +12,7 @@
 		E2766A6F1E571473007FE4C0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E2766A6D1E571473007FE4C0 /* Main.storyboard */; };
 		E2766A711E571473007FE4C0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E2766A701E571473007FE4C0 /* Assets.xcassets */; };
 		E2766A741E571473007FE4C0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E2766A721E571473007FE4C0 /* LaunchScreen.storyboard */; };
+		E2766A7C1E57157B007FE4C0 /* sampleImage.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E2766A7B1E57157B007FE4C0 /* sampleImage.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		E2766A701E571473007FE4C0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E2766A731E571473007FE4C0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E2766A751E571473007FE4C0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E2766A7B1E57157B007FE4C0 /* sampleImage.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sampleImage.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		E2766A681E571473007FE4C0 /* ClipImageSample */ = {
 			isa = PBXGroup;
 			children = (
+				E2766A7B1E57157B007FE4C0 /* sampleImage.jpg */,
 				E2766A691E571473007FE4C0 /* AppDelegate.swift */,
 				E2766A6B1E571473007FE4C0 /* ViewController.swift */,
 				E2766A6D1E571473007FE4C0 /* Main.storyboard */,
@@ -127,6 +130,7 @@
 				E2766A741E571473007FE4C0 /* LaunchScreen.storyboard in Resources */,
 				E2766A711E571473007FE4C0 /* Assets.xcassets in Resources */,
 				E2766A6F1E571473007FE4C0 /* Main.storyboard in Resources */,
+				E2766A7C1E57157B007FE4C0 /* sampleImage.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
